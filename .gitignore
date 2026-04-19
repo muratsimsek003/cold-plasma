@@ -1,0 +1,7 @@
+# Dataset files (too large for git)
+NEU-CLS/
+skin_dataset/
+NEU-CLS.zip
+__pycache__/
+*.pyc
+.DS_Store
